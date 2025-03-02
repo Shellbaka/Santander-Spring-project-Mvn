@@ -1,4 +1,4 @@
-package DIO.Santander.Spring.project;
+package MainApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

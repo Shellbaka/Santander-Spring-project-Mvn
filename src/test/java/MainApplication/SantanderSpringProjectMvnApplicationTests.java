@@ -1,4 +1,4 @@
-package DIO.Santander.Spring.project;
+package MainApplication;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
