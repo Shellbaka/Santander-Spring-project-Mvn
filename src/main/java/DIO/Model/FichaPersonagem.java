@@ -1,5 +1,6 @@
 package DIO.Model;
 
+import DIO.Model.User;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
@@ -15,7 +16,7 @@ public class FichaPersonagem {
     private String nomePersonagem;
 
     @OneToOne
-    @JoinColumn(name = "user_id") // Cada usuário tem uma ficha
+    @JoinColumn(name = "user_id", unique = true) // Cada usuário tem uma ficha
     private User user;
 
     @ManyToOne
@@ -29,4 +30,6 @@ public class FichaPersonagem {
     @ManyToOne
     @JoinColumn(name = "classe_id")
     private classePersonagem classe;
+
+
 }
