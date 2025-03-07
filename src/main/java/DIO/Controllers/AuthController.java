@@ -24,12 +24,11 @@ public class AuthController {
 
     @PostMapping("/login")
     public ResponseEntity<String> login(@RequestBody LoginRequest request) {
-        // Autentica o usuário
+
         authenticationManager.authenticate(
                 new UsernamePasswordAuthenticationToken(request.getEmail(), request.getSenha())
         );
 
-        // Recupera o usuário e gera o token
         User user = userService.buscarPorEmail(request.getEmail()).orElseThrow();
         String token = jwtUtil.generateToken(user);
 
