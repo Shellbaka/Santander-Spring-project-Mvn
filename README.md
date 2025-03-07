@@ -1,5 +1,10 @@
 ## Este projeto é Com base No projeto da Santander da DIO 
 
+
+- Este projeto foca em entregar a porposta do primeiro projeto spring,introduzindo a métodos API Rest com uso de algum banco de dados.
+- utilizei com isto o mysqlworckbench local mesmo para poupar tempo e fazendo alguns testes no Postman.
+
+  Espero que tenha ficado do agrado dos avaliadores, me esforcei para entender bastante os princípios, Java não é o meu forte ainda mas tenho aprendido bastante.
 ## Diagrama de Classes.
 ```mermaid
 classDiagram
@@ -117,3 +122,10 @@ classDiagram
     Classe "1" --|> "1" Mago
 
 ```
+
+# Considerações finais.
+
+ É geralmente uma loucura quando começamos coisas do zero e vemos aquilo começar a funcionar, nunca tinha tido tanta experiência quanto a que ganhei dentro desse curso, foi genuinamente maravilhoso e posso dizer que eu gostei bastante do que vi, fiz e aprendi.
+ Levarei esse conhecimento comigo, só gostaria de ter tido mais tempo, ainda mais dentro das minhas condições de ter um Computador bem perebento e ainda colidir com muitas das minhas atividades da faculdade, mas DEus sabe de tudo!
+
+ Se você chegou até aqui, um forte abraço pra você, Deus te abençoe.
