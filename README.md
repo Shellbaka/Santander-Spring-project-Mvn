@@ -123,6 +123,13 @@ classDiagram
 
 ```
 
+Meu Objetivo é transformar esse lindo projeto num jogo de simulador de cartas, então a modelagem foi feita pensando nisso.
+
+## vou deixar aqui a imagem da ideia que inspirou tudo isso e que virou um projeto Angular e que futuramente irá se tornar um projeto gigantesco com um bom escopo.
+
+<img src"">
+
+
 # Considerações finais.
 
  É geralmente uma loucura quando começamos coisas do zero e vemos aquilo começar a funcionar, nunca tinha tido tanta experiência quanto a que ganhei dentro desse curso, foi genuinamente maravilhoso e posso dizer que eu gostei bastante do que vi, fiz e aprendi.
