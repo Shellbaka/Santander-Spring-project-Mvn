@@ -127,7 +127,7 @@ Meu Objetivo é transformar esse lindo projeto num jogo de simulador de cartas, 
 
 ## vou deixar aqui a imagem da ideia que inspirou tudo isso e que virou um projeto Angular e que futuramente irá se tornar um projeto gigantesco com um bom escopo.
 
-<img src"">
+![Página do God and Evil 1](Página%20do%20God%20and%20Evil%201.jpg)
 
 
 # Considerações finais.
